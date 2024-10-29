@@ -1,6 +1,6 @@
-! Design and Development
-
 # Gilad Twili
+
+# Design and Development
 I'm Gilad from Israel, and I am software engineer 
 
 ## Skills and Experience
